@@ -70,12 +70,13 @@ If sending fails (e.g. WhatsApp Web's layout has changed), the PDF is still save
 ---
 
 ## Project structure
-'''
+
+```
 rentoo-contract-sender/
 ├── main.py            # All application logic
 ├── requirements.txt   # Python dependencies
 └── README.md          # This file
-'''
+```
 
 ---
 
