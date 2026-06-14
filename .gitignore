@@ -1,0 +1,23 @@
+# WhatsApp session cache (contains login cookies — never commit this)
+whatsapp_session/
+
+# Generated PDFs
+contrato_*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Chromedriver debug log
+chromedriver.log
